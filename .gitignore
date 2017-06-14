@@ -94,5 +94,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.idea
 
-
+.idea/Even_Fibonacci_numbers.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
